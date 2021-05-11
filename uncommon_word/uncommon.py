@@ -34,5 +34,3 @@ if __name__ == "__main__":
     print(" str1 is : ", str1)
     print(" str2 is : ", str2)
     print(uncommon_word(str1, str2))
-    
-    
